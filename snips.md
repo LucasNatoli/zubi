@@ -1,5 +1,8 @@
 # Snips de codigo
 
++ [Wordpress](https://github.com/LucasNatoli/zubi/blob/master/snips.md#wordpress)
++ [Mysql](https://github.com/LucasNatoli/zubi/blob/master/snips.md#mysql)
+
 ## Wordpress
 
 Instalar usando curl 
