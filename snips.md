@@ -34,6 +34,12 @@ GRANT access usuario a database
 mysql> GRANT ALL PRIVILEGES ON database_name.* TO 'username'@'localhost';
 ```
 
+Mostrar todos los usuarios del servidor
+
+```sql
+SELECT User FROM mysql.user;
+```
+
 ## Wordpress
 
 Instalar usando curl 
