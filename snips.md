@@ -6,7 +6,7 @@
 
 ## Apache
 
-Virtual hosts: Definidos en `/etc/apache2/sites/available` del host
+Virtual hosts: Definidos en `/etc/apache2/sites-available` del host
 
 ```bash
 # Ensure that Apache listens on port 80
