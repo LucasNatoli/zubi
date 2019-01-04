@@ -6,6 +6,13 @@
 
 ## Apache
 
+Gracefully reload
+
+```bash
+sudo service apache2 reload
+```
+
+
 Virtual hosts: Definidos en `/etc/apache2/sites-available` del host
 
 ```bash
