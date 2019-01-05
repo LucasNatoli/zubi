@@ -1,8 +1,10 @@
 # zubi
 Zubi desarrollo
 
-Stack
+Wordpress
 + Wordpress 4.9.9 (al 16/12/2018 varios de los plugins que utilizamos no estan probados en la version 5.0.1 de wordpress)
+
+Plugins
 + WooCommerce 
 + WPC Product Bundles for WooCommerce
 + LearnDash
@@ -10,13 +12,10 @@ Stack
 + LearnDash Woocommerce integration add-on 
 + WisdmLabs Instructor Role (learndash)
 + LearnDash Course Grid
-+ LearnDash ProPanel
++ [Granular Controls](https://wordpress.org/plugins/granular-controls-for-elementor)
 
-Theme:
-
+Theme
 + [MaterialWP](https://materialwp.com)
 
-Editor:
-
+Editor
 + Elementor
-+ [Granular Controls](https://wordpress.org/plugins/granular-controls-for-elementor)
