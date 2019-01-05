@@ -11,3 +11,12 @@ Stack
 + WisdmLabs Instructor Role (learndash)
 + LearnDash Course Grid
 + LearnDash ProPanel
+
+Theme:
+
++ [MaterialWP](https://materialwp.com)
+
+Editor:
+
++ Elementor
++ [Granular Controls](https://wordpress.org/plugins/granular-controls-for-elementor)
