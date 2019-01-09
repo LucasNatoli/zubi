@@ -1,4 +1,4 @@
-# Snips de codigo
+# Snips
 
 Lista de comandos y scripts de uso regular en el entorno de desarrllo.
 Para ayudar a las mentes dispersas por la creatividad y eliminar la necesidad de los memoriosos tragalibros. 
