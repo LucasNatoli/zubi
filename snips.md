@@ -13,7 +13,7 @@ sudo service apache2 reload
 ```
 
 
-Virtual hosts: Definidos en `/etc/apache2/sites-available` del host
+Virtual hosts: Definidos en `/etc/apache2/sites-available` del host. Es recomendado para Ubuntu.
 
 ```bash
 # Ensure that Apache listens on port 80
@@ -34,6 +34,12 @@ Listen 80
 ```
 
 ## MySql 
+
+Dump database
+
+```bash
+mysqldump -u username -p db1 --single-transaction --quick --lock-tables=false > db1-backup-$(date +%F).sql
+```
 
 GRANT access usuario a database
 
