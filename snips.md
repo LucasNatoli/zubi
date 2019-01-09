@@ -1,5 +1,8 @@
 # Snips de codigo
 
+Lista de comandos y scripts de uso regular en el entorno de desarrllo.
+Para ayudar a las mentes dispersas por la creatividad y eliminar la necesidad de los memoriosos tragalibros. 
+
 + [Apache](https://github.com/LucasNatoli/zubi/blob/master/snips.md#apache)
 + [Mysql](https://github.com/LucasNatoli/zubi/blob/master/snips.md#mysql)
 + [Wordpress](https://github.com/LucasNatoli/zubi/blob/master/snips.md#wordpress)
