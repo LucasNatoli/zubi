@@ -23,6 +23,7 @@ Este repositorio es público a los findes de poder proveer un punto de acceso a 
 + Uncanny LearnDash Toolkit
 + Design Upgrade for LearnDash
 + Content Aware Sidebars
++ [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/)
 
 
 ### Theme
