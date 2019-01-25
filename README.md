@@ -21,6 +21,9 @@ Este repositorio es público a los findes de poder proveer un punto de acceso a 
 + [WP Mail SMTP](https://es.wordpress.org/plugins/wp-mail-smtp/)
 + [Disable Comments](https://es.wordpress.org/plugins/disable-comments/)
 + Uncanny LearnDash Toolkit
++ Design Upgrade for LearnDash
++ Content Aware Sidebars
+
 
 ### Theme
 + [Zubi-Ciervo](https://ciervo.boutique)
