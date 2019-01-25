@@ -20,9 +20,10 @@ Este repositorio es público a los findes de poder proveer un punto de acceso a 
 + [Adminimize](https://wordpress.org/plugins/adminimize/)
 + [WP Mail SMTP](https://es.wordpress.org/plugins/wp-mail-smtp/)
 + [Disable Comments](https://es.wordpress.org/plugins/disable-comments/)
++ Uncanny LearnDash Toolkit
 
 ### Theme
-+ [Zubi-Ciervo](ciervo.boutique)
++ [Zubi-Ciervo](https://ciervo.boutique)
 
 ### Builder/Editor
 + Elementor
