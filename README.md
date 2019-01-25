@@ -17,6 +17,8 @@ Este repositorio es público a los findes de poder proveer un punto de acceso a 
   + LearnDash Woocommerce integration add-on 
   + WisdmLabs Instructor Role (learndash)
   + LearnDash Course Grid
++ [Adminimize](https://wordpress.org/plugins/adminimize/)
++ [WP Mail SMTP](https://es.wordpress.org/plugins/wp-mail-smtp/)
 
 ### Theme
 + [MaterialWP](https://materialwp.com)
