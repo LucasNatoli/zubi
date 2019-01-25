@@ -19,9 +19,10 @@ Este repositorio es público a los findes de poder proveer un punto de acceso a 
   + LearnDash Course Grid
 + [Adminimize](https://wordpress.org/plugins/adminimize/)
 + [WP Mail SMTP](https://es.wordpress.org/plugins/wp-mail-smtp/)
++ [Disable Comments](https://es.wordpress.org/plugins/disable-comments/)
 
 ### Theme
-+ [MaterialWP](https://materialwp.com)
++ [Zubi-Ciervo](ciervo.boutique)
 
 ### Builder/Editor
 + Elementor
