@@ -6,7 +6,7 @@ Para ayudar a las mentes dispersas por la creatividad y eliminar la necesidad de
 + [Apache](https://github.com/LucasNatoli/zubi/blob/master/snips.md#apache)
 + [Mysql](https://github.com/LucasNatoli/zubi/blob/master/snips.md#mysql)
 + [Wordpress](https://github.com/LucasNatoli/zubi/blob/master/snips.md#wordpress)
-+ Shell Commands
++ [Shell Commands](https://github.com/LucasNatoli/zubi/blob/master/snips.md#shell-commands)
 
 ## Apache
 
