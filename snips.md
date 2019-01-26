@@ -6,6 +6,7 @@ Para ayudar a las mentes dispersas por la creatividad y eliminar la necesidad de
 + [Apache](https://github.com/LucasNatoli/zubi/blob/master/snips.md#apache)
 + [Mysql](https://github.com/LucasNatoli/zubi/blob/master/snips.md#mysql)
 + [Wordpress](https://github.com/LucasNatoli/zubi/blob/master/snips.md#wordpress)
++ Shell Commands
 
 ## Apache
 
@@ -68,3 +69,8 @@ mv wordpress/* [destino]
 rm [version].zip 
 ```
 
+## Shell Commands
+
+```bash
+zip -r name_of_your_directory.zip name_of_your_directory
+```
