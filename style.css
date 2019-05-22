@@ -1,0 +1,570 @@
+Theme Name: ZUBI
+Theme URI: http://underscores.me/
+Author: Lorenz Natoli
+Author URI: http://ciervo.boutique
+Description: ZUBI e-learning
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: zubi-ciervo
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+ZUBI is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+.circulo-70 {
+	width: 70px;
+	height: 70px;
+}
+.social-iconos {
+	color: white;
+}
+ 
+.fila-centrada {
+	text-align: center;
+
+}
+.fondo-blanco {
+	background-color: white;
+}
+.fondo-azul {
+	background-color: #648cff;
+}
+
+.navbar {
+	box-shadow: none;
+}
+
+.navbar-brand {
+	margin-right: 30px;
+}
+
+body {
+	font-family: Ubuntu;
+	margin-bottom: 0px !important;
+	background-color: white !important;
+}
+
+.home-iconos {
+	color:#648cff;
+	font-size: 50px;
+	padding: 10px;
+}
+
+.home-tarjeta {
+	padding: 40px 20px 40px 20px;
+}
+
+.home-tarjeta p {
+	padding: 0px 20px 0px 20px;	
+} 
+
+a.btn.btn-primario {
+	color: white;
+	background-color: #fc6a42;
+	margin-top: 10px;
+}
+
+a.btn.btn-primario:hover {
+	color: white;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+a.btn.btn-primario:link {
+	color: white;
+    cursor: pointer;
+}
+
+a.btn.btn-primario:active {
+	color: white;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+a.btn.btn-primario:visited {
+	color: white;
+    background-color: transparent!important;
+    cursor: pointer;
+}
+
+.btn.btn-secundario {
+	color: white;
+	background-color: #fc6a42!important;
+	margin-top: 10px;
+}
+
+.btn.btn-secundario:hover {
+	color: #fc6a42;
+    background-color: transparent!important;
+    cursor: pointer;
+}
+
+.blanco {
+    color: white;
+}
+
+.negro {
+	color: black;
+}
+
+h1 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+
+
+h3 {
+	font-size: 20px;
+}
+
+
+.centrado {
+	text-align:center;
+}
+
+
+.padding-grande {
+	padding: 50px;
+}
+
+.padding-mediano {
+	padding: 25px;
+}
+
+.padding-chico {
+	padding: 10px;
+}
+
+.padding-bottom {
+	padding: 0px 0px 0px 100px
+}
+
+.ld_course_grid {
+	box-shadow: none !important;
+	border-radius: 0px !important;
+}
+
+.widget-title {
+	font-size: 18px;
+	color: #72839c;
+	border-bottom: #72839c solid 4px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.widget-area ul {
+	list-style: none !important;
+	padding: 0px;
+	line-height: 32px;
+}
+.widget-area ul a {
+	color: #72839c !important;
+}
+
+.btn.btn-primary {
+	color: white;
+	background-color: #fc6a42!important;
+}
+
+.btn.btn-primary:hover {
+	color: #fc6a42!important;
+	background-color: transparent!important;
+	cursor: pointer;
+}
+
+.breadcrumbs {
+	color: #ccd2cc;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	border-bottom: #72839c solid 1px;
+	margin-bottom: 30px;
+}
+
+.breadcrumbs a {
+	color: #72839c;
+}
+
+.learndash_post_sfwd-courses {
+	margin-top: 20px;
+}
+
+.header-unete {		
+	height: 400px;
+	background-color: #b8c2cb;
+}
+
+.unete-perfil {
+	width: 100%;
+	height: auto;
+	max-width: 481px;
+}
+
+
+ul.footer_links li {
+	display:inline
+}
+
+ul.footer_links li a {
+	color: #fff!important;
+	text-decoration: none;
+  }
+
+#post-60 .um-button {
+	background: #fc6a42;
+	text-transform: uppercase!important;
+	color: white!important;
+	font-size: .875rem!important;
+	border-radius: .125rem!important;
+	font-weight: 500!important;
+}
+#post-60 .um-button.um-alt {
+	background: #fc6a42;
+	text-transform: uppercase!important;
+	color: white!important;
+	font-size: .875rem!important;
+	border-radius: .125rem!important;
+	font-weight: 500!important;
+}
+
+
+#post-61 .um-button {
+	background: #fc6a42;
+	text-transform: uppercase!important;
+	color: white!important;
+	font-size: .875rem!important;
+	border-radius: .125rem!important;
+	font-weight: 500!important;
+}
+#post-61 .um-button.um-alt {
+	background: #fc6a42;
+	text-transform: uppercase!important;
+	color: white!important;
+	font-size: .875rem!important;
+	border-radius: .125rem!important;
+	font-weight: 500!important;
+}
+
+#post-64 .entry-content {
+	padding-top: 20px;
+	min-height: 600px;
+}
+
+.um-form .um-button {
+	background: #fc6a42!important;
+	text-transform: uppercase!important;
+	color: white!important;
+	font-size: .875rem!important;
+	border-radius: .125rem!important;
+	font-weight: 500!important;
+}
+
+.um a.um-link {
+    color: #fc6a42!important;
+}
+
+.um .um-field-radio.active:not(.um-field-radio-state-disabled) i {
+	color: #fc6a42!important;
+}
+
+.um-account-side li a.current span.um-account-icon {
+	color: #fc6a42!important;
+}
+
+.um-account-name .uimob800-hide a {
+	color: #fc6a42!important;
+}
+
+#post-60 .entry-content {
+	padding-top: 20px;
+	min-height: 600px;
+}
+
+
+#post-60 .entry-content a{
+	color: #fc6a42!important;
+	
+}
+
+.um .um-cover-add:hover {
+	color: #fc6a42!important;
+}
+
+.um .um-profile-nav-item.active a {
+	background: #fc6a42!important;
+}
+
+.um .um-profile-note a {
+	color: #fc6a42!important;
+}
+
+.um-profile.um .um-profile-headericon a:hover, .um-profile.um .um-profile-edit-a.active {
+	color: #fc6a42!important;
+}
+
+#primary-menu.menu {
+	display: flex;
+	list-style-type: none ;
+}
+
+li#menu-item-443 a{
+
+	color: white;
+	background-color: #fc6a42;
+	padding: 10px 10px;
+	margin: 0 6px 0;
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 1;
+}
+
+li#menu-item-443 a:hover
+	{
+	color: white;
+	background-color: transparent!important;
+}
+
+li#menu-item-442 a{
+	color: white;
+	background-color: #fc6a42;
+	padding: 10px 10px;
+	margin: 0 6px 0;
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 1;
+}
+
+li#menu-item-442 a:hover
+	{
+	color: white;
+	background-color: transparent!important;
+}
+
+
+li#menu-item-446 a
+	{
+	color: white;
+	background-color: #fc6a42;
+	padding: 10px 10px;
+	margin: 0 6px 0;
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 1;
+}
+
+li#menu-item-446 a:hover
+	{
+	color: white;
+	background-color: transparent!important;
+}
+
+
+
+
+
+
+
+
+img.gravatar.avatar.avatar-40.um-avatar {
+
+    -moz-border-radius: 999px;
+    -webkit-border-radius: 999px;
+	border-radius: 999px;
+	margin: 0 6px 0;
+	line-height: 1;
+	display: block;
+}
+
+img.gravatar.avatar.avatar-40.um-avatar.um-avatar-uploaded {
+
+    -moz-border-radius: 999px;
+    -webkit-border-radius: 999px;
+	border-radius: 999px;
+	margin: 0 6px 0;
+	line-height: 1;
+
+	display: block;
+}
+
+.menu-menu-1-container {
+	padding-top: 3px;
+}
+
+
+button.single_add_to_cart_button.button.alt {
+		color: white;
+		background-color: #fc6a42!important;
+		padding: 10px 10px;
+		margin: 0 6px 0;
+		display: block;
+		text-decoration: none;
+		font-size: 14px;
+		line-height: 1;
+		border: none;
+		text-transform: uppercase
+
+}
+
+button.single_add_to_cart_button.button.alt:hover{
+	color: #fc6a42;
+	background-color: white!important;
+	padding: 10px 10px;
+	margin: 0 6px 0;
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 1;
+	border: none;
+	text-transform: uppercase
+}
+
+nav.woocommerce-breadcrumb {
+	color: #ccd2cc;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	border-bottom: #72839c solid 1px;
+	margin-bottom: 30px;
+	text-decoration: none
+}
+
+
+nav.woocommerce-breadcrumb a {
+	color: #72839c;
+	text-decoration: none
+}
+
+
+.product_meta a{
+	color: #fc6a42;
+	text-transform: uppercase;
+	text-decoration: none!important;
+}
+
+
+.input-text.qty.text {
+	height: 35px;
+	padding: 5px
+}
+
+ul.tabs.wc-tabs {
+    width: 100%!important;
+    border: none!important;
+    text-align: center!important;
+}
+
+ul.tabs.wc-tabs a{
+	color: #fc6a42;
+}
+
+
+div#tab-reviews {
+    width: 100%!important;
+}
+
+input#submit {
+	color: white;
+	background-color: #fc6a42!important;
+	padding: 10px 10px;
+	margin: 0 6px 0;
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 1;
+	border: none;
+	text-transform: uppercase
+}
+
+input#submit:hover {
+	color: #fc6a42;
+	background-color: white!important;
+	padding: 10px 10px;
+	margin: 0 6px 0;
+	display: block;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 1;
+	border: none;
+	text-transform: uppercase
+}
+
+
+p.stars.selected a.active::before{
+	color: #fc6a42!important;
+	
+}
+
+p.stars.selected a.hover{
+	color: #fc6a42!important;
+	
+}
+
+p.stars:hover a::before {
+	color: #fc6a42!important;
+}
+
+p.stars.selected a:not(.active)::before{
+	color: #fc6a42!important;
+}
+
+
+.star-rating::before{
+	color: #fc6a42!important;
+	
+}
+
+.star-rating span::before{
+	color: #fc6a42!important;
+	
+}
+
+.single-product div.product .woocommerce-product-rating a{
+	color: #fc6a42!important;
+	text-decoration: none!important
+}
+
+.single-product div.product .woocommerce-product-rating {
+	padding-top: 30px
+}
+
+img.gravatar.avatar.avatar-60.um-avatar.um-avatar-uploaded {
+	-moz-border-radius: 999px;
+    -webkit-border-radius: 999px;
+	border-radius: 999px;
+	margin: 0;
+	line-height: 1;
+	display: block;
+	height: 50px!important;
+	width: 50px!important;
+
+}
+
+div#comments {
+	width: 100%;
+	float: left;
+}
+
+.woocommerce-Reviews-title {
+	text-align: center;
+
+}
+
+form#commentform
+{
+	width: 100%;
+
+}
