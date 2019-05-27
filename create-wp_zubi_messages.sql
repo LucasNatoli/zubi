@@ -1,7 +1,7 @@
 CREATE TABLE `wp_zubi_messages` (
   `message_id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `message_from_user_id` INT NULL,
-  `message_tu_user_id` INT NULL,
+  `message_to_user_id` INT NULL,
   `message_content` LONGTEXT NULL,
   `post_id` INT NULL,
   `message_date_sent` DATETIME NULL,
