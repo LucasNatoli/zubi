@@ -31,3 +31,13 @@ El instructor puede contestar los mensajes desde la Aplicacion mediante una caja
 
 El instructor puede archivar una convesacion mediante un boton de accion en la lista de convesariones. 
 
+## REST API
+
++ POST send-message
++ GET mis-conversaciones
++ GET conversacion/@userid
+
+
+
+
+
